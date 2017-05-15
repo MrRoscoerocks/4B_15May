@@ -6,6 +6,7 @@ public class GitRunner {
 		System.out.println("Fix null pointer bug");
 		// work... work... work...
 		System.out.println("Bug is finally fixed");
+		System.out.println("Now merged");
 
 	}
 
