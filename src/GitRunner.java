@@ -8,7 +8,8 @@ public class GitRunner {
 		System.out.println("Bug is finally fixed");
 		System.out.println("Now merged");
 		System.out.println("Start on GUI");
-
+		// work on GUI...
+		System.out.println("GUI is now created");
 
 	}
 
