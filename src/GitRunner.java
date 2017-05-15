@@ -10,6 +10,7 @@ public class GitRunner {
 		System.out.println("Start on GUI");
 		// work on GUI...
 		System.out.println("GUI is now created");
+		System.out.println("Merged GUI with master here");
 
 	}
 
